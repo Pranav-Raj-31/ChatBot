@@ -1,6 +1,6 @@
-# 🤖 AssistMe – AI Chatbot with Google Gemini API
+# 🤖 Assky – AI Chatbot with Google Gemini API
 
-**AssistMe** is an intelligent, responsive chatbot interface built using **React.js** and powered by **Google Gemini 1.5 Pro** via the `@google/generative-ai` SDK. It allows users to interact with an AI model through a clean, chat-style interface that supports markdown rendering, prompt cards, and seamless messaging.
+**Assky** is an intelligent, responsive chatbot interface built using **React.js** and powered by **Google Gemini 1.5 Pro** via the `@google/generative-ai` SDK. It allows users to interact with an AI model through a clean, chat-style interface that supports markdown rendering, prompt cards, and seamless messaging.
 
 ## 🚀 Live Demo
 
