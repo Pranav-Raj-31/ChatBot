@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-[Click here to try it live](https://your-deployment-link.com) 
+[Click here to try it live](https://assky.netlify.app/) 
 
 ---
 
